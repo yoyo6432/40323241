@@ -2539,7 +2539,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160105220929.9">&lt;section&gt;
     &lt;h2&gt;自評&lt;/h2&gt;
-    &lt;p&gt;65分&lt;/p&gt;
+    &lt;p&gt;70分&lt;/p&gt;
   
 &lt;/section&gt;
 				
@@ -2604,14 +2604,14 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160105220930.8">&lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這次將隊友畫好的零件拿來組立,經過上次的反覆練習和同學的指導,能順利的進行組立,並且錄製影片。&lt;/p&gt;
   
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160105220930.9">&lt;section&gt;
     &lt;h2&gt;自評&lt;/h2&gt;
-    &lt;p&gt;65分&lt;/p&gt;
+    &lt;p&gt;70分&lt;/p&gt;
   
 &lt;/section&gt;
 				
@@ -2676,14 +2676,14 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160105220931.8">&lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這週接觸了Onshape的繪圖網站,主要在熟悉功能的使用,因為學過Creo,故能較快上手繪圖程式,這個Onshape網站的順暢度較Creo慢,但便利性較好。&lt;/p&gt;
   
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160105220931.9">&lt;section&gt;
     &lt;h2&gt;自評&lt;/h2&gt;
-    &lt;p&gt;65分&lt;/p&gt;
+    &lt;p&gt;70分&lt;/p&gt;
   
 &lt;/section&gt;
 				
@@ -2748,14 +2748,14 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160105220934.8">&lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這週進行Onshape的組立,我覺得組立的速度較Creo快,且能和隊友一起討論共同完成組立,還有設定限制尺寸,使機構能順利執行功能。&lt;/p&gt;
   
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160105220934.9">&lt;section&gt;
     &lt;h2&gt;自評&lt;/h2&gt;
-    &lt;p&gt;65分&lt;/p&gt;
+    &lt;p&gt;70分&lt;/p&gt;
   
 &lt;/section&gt;
 				
