@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('班級個人', 'http://2015fallhw.github.io/2015fallcadpb/user/40323241/'),('G2連結', 'http://2015fallhw.github.io/2015fallcadpb/category/g2.html'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
